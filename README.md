@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Radhika-Suden/Radhika-Suden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Radhika Suden - Digital Evangelist Intern at Status Neo hailing from the foothills of the Himalayas - Dehradun!
 
-Here are some ideas to get you started:
+I am a final year student pursing my Bachelors from University of Petroleum and Energy Studies, Dehradun, Uttarakhand, with a major specialization in Artificial Intelligence and Machine Learning and a minor in Cloud Computing and Virtualisation Technology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Technical achievements 🔭
+- **Smart Blind Stick using Arduino and Sensors** - Used Internet of Things and C++ as the coding Language
+- **SRE Automation** - Automated the college potal - Used Web Development, SQL and MongoDB
+- **Bio-Activity Forecast** - Acceleration of Drug Discovery using Computational Machine Learning Models
+
+## My Hobbies 😄
+- My **cycling** adventures have taught me the value of grit and determination.
+- My **badminton** smashes have honed my competitive spirit and strategic thinking.
+
+
